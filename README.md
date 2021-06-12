@@ -35,11 +35,11 @@ example results:
 4978 total lost.
 10000 total games played.
 
-1667 won with sticking.
-3330 won with changing.
-3304 lost with sticking.
-1699 lost with changing.
-4997 total won.
-5003 total lost.
-10000 total games played.
+16614 won with sticking.
+33426 won with changing.
+33172 lost with sticking.
+16788 lost with changing.
+50040 total won.
+49960 total lost.
+100000 total games played.
 ```
